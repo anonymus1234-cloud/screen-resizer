@@ -1,0 +1,18 @@
+body{
+    background-color: peachpuff;
+}
+
+h1{
+    color: blue;
+    border: 15px;
+    border-color: blue;
+    border-style: groove;
+    background-color: black;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    font-size:40px ;
+    font-family: Curlz Mt;
+    text-decoration: overline underline;
+    text-shadow: 2px 2px 2px rgb(87, 87, 231);
+}
